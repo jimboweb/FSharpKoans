@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="FSharpKoans" t="IncludeRecursive">
+        <e p="AboutArrays.fs" t="Include" />
+        <e p="AboutAsserts.fs" t="Include" />
+        <e p="AboutBranching.fs" t="Include" />
+        <e p="AboutClasses.fs" t="Include" />
+        <e p="AboutDiscriminatedUnions.fs" t="Include" />
+        <e p="AboutDotNetCollections.fs" t="Include" />
+        <e p="AboutFiltering.fs" t="Include" />
+        <e p="AboutFunctions.fs" t="Include" />
+        <e p="AboutLet.fs" t="Include" />
+        <e p="AboutLists.fs" t="Include" />
+        <e p="AboutLooping.fs" t="Include" />
+        <e p="AboutModules.fs" t="Include" />
+        <e p="AboutOptionTypes.fs" t="Include" />
+        <e p="AboutPipelining.fs" t="Include" />
+        <e p="AboutRecordTypes.fs" t="Include" />
+        <e p="AboutStrings.fs" t="Include" />
+        <e p="AboutTheOrderOfEvaluation.fs" t="Include" />
+        <e p="AboutTheStockExample.fs" t="Include" />
+        <e p="AboutTuples.fs" t="Include" />
+        <e p="AboutUnit.fs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FSharpKoans.fsproj" t="IncludeRecursive" />
+        <e p="MoreAboutFunctions.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PathToEnlightenment.fs" t="Include" />
+      </e>
+      <e p="FSharpKoans.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FSharpKoans.Core.fsproj" t="IncludeRecursive" />
+        <e p="Helpers.fs" t="Include" />
+        <e p="KoanAttribute.fs" t="Include" />
+        <e p="KoanContainer.fs" t="Include" />
+        <e p="KoanResult.fs" t="Include" />
+        <e p="KoanRunner.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+      </e>
+      <e p="FSharpKoans.sln" t="IncludeFlat" />
+      <e p="FSharpKoans.Test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FindingKoans.fs" t="Include" />
+        <e p="FSharpKoans.Test.fsproj" t="IncludeRecursive" />
+        <e p="GettingTheWholeOutput.fs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="RunningKoans.fs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_FSharpKoans.577110957.00" t="ExcludeRecursive" />
+  </component>
+</project>
