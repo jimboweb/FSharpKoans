@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4881fd74-2cd1-40c4-bd2e-b28c9120fe67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FSharpKoans/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FSharpKoans/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4881fd74-2cd1-40c4-bd2e-b28c9120fe67" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FSharpKoans/AboutLists.fs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="66" lean-forward="true" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+            <state relative-caret-position="-359">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <marker date="1554129806902" expanded="false" signature="27:75" ph="..." />
                 <marker date="1554129806902" expanded="true" signature="77:485" ph="//--------------------------------------------------------------- ..." />
@@ -42,6 +40,55 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FSharpKoans/AboutBranching.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-331">
+              <folding>
+                <marker date="1554142238170" expanded="true" signature="45:316" ph="//--------------------------------------------------------------- ..." />
+                <marker date="1554142238170" expanded="true" signature="362:2663" ph=" = ..." />
+                <marker date="1554142238170" expanded="true" signature="407:642" ph=" = ..." />
+                <marker date="1554142238170" expanded="true" signature="430:536" ph=" = ..." />
+                <marker date="1554142238170" expanded="true" signature="457:536" ph=" then ..." />
+                <marker date="1554142238170" expanded="true" signature="695:1112" ph=" = ..." />
+                <marker date="1554142238170" expanded="true" signature="939:1063" ph=" =  ..." />
+                <marker date="1554142238170" expanded="true" signature="963:1063" ph=" then ..." />
+                <marker date="1554142238170" expanded="true" signature="1163:1431" ph=" = ..." />
+                <marker date="1554142238170" expanded="true" signature="1187:1269" ph=" = ..." />
+                <marker date="1554142238170" expanded="true" signature="1214:1269" ph=" ..." />
+                <marker date="1554142238170" expanded="true" signature="1507:2084" ph=" = ..." />
+                <marker date="1554142238170" expanded="true" signature="1542:1838" ph=" =  ..." />
+                <marker date="1554142238170" expanded="true" signature="1697:1838" ph=" then ..." />
+                <marker date="1554142238170" expanded="true" signature="1702:1758" ph=" ..." />
+                <marker date="1554142238170" expanded="true" signature="2139:2663" ph=" = ..." />
+                <marker date="1554142238170" expanded="true" signature="2170:2416" ph=" = ..." />
+                <marker date="1554142238170" expanded="true" signature="2197:2416" ph=" ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FSharpKoans/AboutPipelining.fs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1554129806902" expanded="true" signature="45:387" ph="//---------------------------------------------------------------- ..." />
+                <marker date="1554129806902" expanded="true" signature="435:1898" ph=" = ..." />
+                <marker date="1554129806902" expanded="true" signature="455:471" ph=" = ..." />
+                <marker date="1554129806902" expanded="true" signature="489:509" ph=" = ..." />
+                <marker date="1554129806902" expanded="true" signature="573:886" ph=" = ..." />
+                <marker date="1554129806902" expanded="true" signature="938:1303" ph=" = ..." />
+                <marker date="1554129806902" expanded="true" signature="1365:1665" ph=" = ..." />
+                <marker date="1554129806902" expanded="true" signature="1537:1623" ph=" = ..." />
+                <marker date="1554129806902" expanded="true" signature="1717:1898" ph=" = ..." />
+                <marker date="1554129806902" expanded="true" signature="1740:1758" ph=" = ..." />
+                <marker date="1554129806902" expanded="true" signature="1778:1864" ph=" = ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -49,6 +96,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/FSharpKoans/AboutLists.fs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/FSharpKoans/AboutPipelining.fs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FSharpKoans/AboutTuples.fs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FSharpKoans/AboutFunctions.fs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FSharpKoans/AboutBranching.fs" root0="FORCE_HIGHLIGHTING" />
@@ -140,12 +188,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554129846883</updated>
       <workItem from="1554129849259" duration="207000" />
-      <workItem from="1554142279610" duration="528000" />
+      <workItem from="1554142279610" duration="703000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="735000" />
+    <option name="totallyTimeSpent" value="910000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -326,7 +374,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FSharpKoans/AboutBranching.fs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-630">
+        <state relative-caret-position="-331">
           <folding>
             <marker date="1554142238170" expanded="true" signature="45:316" ph="//--------------------------------------------------------------- ..." />
             <marker date="1554142238170" expanded="true" signature="362:2663" ph=" = ..." />
@@ -350,10 +398,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FSharpKoans/AboutPipelining.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1554129806902" expanded="true" signature="45:387" ph="//---------------------------------------------------------------- ..." />
+            <marker date="1554129806902" expanded="true" signature="435:1898" ph=" = ..." />
+            <marker date="1554129806902" expanded="true" signature="455:471" ph=" = ..." />
+            <marker date="1554129806902" expanded="true" signature="489:509" ph=" = ..." />
+            <marker date="1554129806902" expanded="true" signature="573:886" ph=" = ..." />
+            <marker date="1554129806902" expanded="true" signature="938:1303" ph=" = ..." />
+            <marker date="1554129806902" expanded="true" signature="1365:1665" ph=" = ..." />
+            <marker date="1554129806902" expanded="true" signature="1537:1623" ph=" = ..." />
+            <marker date="1554129806902" expanded="true" signature="1717:1898" ph=" = ..." />
+            <marker date="1554129806902" expanded="true" signature="1740:1758" ph=" = ..." />
+            <marker date="1554129806902" expanded="true" signature="1778:1864" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FSharpKoans/AboutLists.fs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="66" lean-forward="true" selection-start-line="20" selection-start-column="66" selection-end-line="20" selection-end-column="66" />
+        <state relative-caret-position="-359">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
           <folding>
             <marker date="1554129806902" expanded="false" signature="27:75" ph="..." />
             <marker date="1554129806902" expanded="true" signature="77:485" ph="//--------------------------------------------------------------- ..." />
