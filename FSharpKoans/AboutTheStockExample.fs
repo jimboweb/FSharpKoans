@@ -60,6 +60,10 @@ module ``about the stock example`` =
 
     [<Koan>]
     let YouGotTheAnswerCorrect() =
-        let result =  __
+        let result =
+            stockData
+            |> List.map (fun (str:string)->str.Split [|','|])
+            //|> List.map (fun l->List.Head l)
+        0
         
-        AssertEquality "2012-03-13" result
+        //AssertEquality "2012-03-13" result
