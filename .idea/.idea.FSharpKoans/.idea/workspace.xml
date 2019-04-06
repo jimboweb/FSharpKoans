@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FSharpKoans/AboutLists.fs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-359">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="915">
+              <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
               <folding>
                 <marker date="1554129806902" expanded="false" signature="27:75" ph="..." />
                 <marker date="1554129806902" expanded="true" signature="77:485" ph="//--------------------------------------------------------------- ..." />
@@ -188,12 +188,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554129846883</updated>
       <workItem from="1554129849259" duration="207000" />
-      <workItem from="1554142279610" duration="703000" />
+      <workItem from="1554142279610" duration="1141000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="910000" />
+    <option name="totallyTimeSpent" value="1348000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -206,7 +206,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="43" width="1382" height="837" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25373134" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -419,8 +418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FSharpKoans/AboutLists.fs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-359">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="915">
+          <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
           <folding>
             <marker date="1554129806902" expanded="false" signature="27:75" ph="..." />
             <marker date="1554129806902" expanded="true" signature="77:485" ph="//--------------------------------------------------------------- ..." />
