@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4881fd74-2cd1-40c4-bd2e-b28c9120fe67" name="Default Changelist" comment="" />
+    <list default="true" id="4881fd74-2cd1-40c4-bd2e-b28c9120fe67" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/FSharpKoans/AboutLists.fs" beforeDir="false" afterPath="$PROJECT_DIR$/FSharpKoans/AboutLists.fs" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,28 +15,28 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FSharpKoans/AboutLists.fs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="915">
-              <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+            <state relative-caret-position="555">
+              <caret line="122" column="37" selection-start-line="122" selection-start-column="37" selection-end-line="122" selection-end-column="37" />
               <folding>
-                <marker date="1554129806902" expanded="false" signature="27:75" ph="..." />
-                <marker date="1554129806902" expanded="true" signature="77:485" ph="//--------------------------------------------------------------- ..." />
-                <marker date="1554129806902" expanded="true" signature="527:3654" ph=" = ..." />
-                <marker date="1554129806902" expanded="true" signature="567:1249" ph=" = ..." />
-                <marker date="1554129806902" expanded="true" signature="642:746" ph="//Note: The list data type in F## is a singly linked list,  ..." />
-                <marker date="1554129806902" expanded="true" signature="1290:1586" ph=" = ..." />
-                <marker date="1554129806902" expanded="true" signature="1652:1717" ph="//first.Head &lt;- &quot;apple&quot; ..." />
-                <marker date="1554129806902" expanded="true" signature="1727:1834" ph="//THINK ABOUT IT: Can you change the contents of a list once it has been ..." />
-                <marker date="1554129806902" expanded="true" signature="1878:2032" ph=" = ..." />
-                <marker date="1554129806902" expanded="true" signature="2412:2521" ph=" = ..." />
-                <marker date="1554129806902" expanded="true" signature="2585:2694" ph=" = ..." />
-                <marker date="1554129806902" expanded="true" signature="2751:2904" ph=" = ..." />
-                <marker date="1554129806902" expanded="true" signature="2770:2844" ph=" = [for i in 0..10 do  ..." />
-                <marker date="1554129806902" expanded="true" signature="2953:3142" ph=" = ..." />
-                <marker date="1554129806902" expanded="true" signature="2976:2996" ph=" = ..." />
-                <marker date="1554129806902" expanded="true" signature="3191:3387" ph=" = ..." />
-                <marker date="1554129806902" expanded="true" signature="3214:3238" ph=" = ..." />
-                <marker date="1554129806902" expanded="true" signature="3438:3654" ph=" = ..." />
-                <marker date="1554129806902" expanded="true" signature="3460:3485" ph=" = ..." />
+                <marker date="1554560428866" expanded="false" signature="27:75" ph="..." />
+                <marker date="1554560428866" expanded="true" signature="77:485" ph="//--------------------------------------------------------------- ..." />
+                <marker date="1554560428866" expanded="true" signature="527:3856" ph=" = ..." />
+                <marker date="1554560428866" expanded="true" signature="567:1277" ph=" = ..." />
+                <marker date="1554560428866" expanded="true" signature="642:746" ph="//Note: The list data type in F## is a singly linked list,  ..." />
+                <marker date="1554560428866" expanded="true" signature="1318:1654" ph=" = ..." />
+                <marker date="1554560428866" expanded="true" signature="1720:1785" ph="//first.Head &lt;- &quot;apple&quot; ..." />
+                <marker date="1554560428866" expanded="true" signature="1795:1902" ph="//THINK ABOUT IT: Can you change the contents of a list once it has been ..." />
+                <marker date="1554560428866" expanded="true" signature="1946:2157" ph=" = ..." />
+                <marker date="1554560428866" expanded="true" signature="2537:2652" ph=" = ..." />
+                <marker date="1554560428866" expanded="true" signature="2716:2834" ph=" = ..." />
+                <marker date="1554560428866" expanded="true" signature="2891:3056" ph=" = ..." />
+                <marker date="1554560428866" expanded="true" signature="2910:2984" ph=" = [for i in 0..10 do  ..." />
+                <marker date="1554560428866" expanded="true" signature="3105:3318" ph=" = ..." />
+                <marker date="1554560428866" expanded="true" signature="3128:3148" ph=" = ..." />
+                <marker date="1554560428866" expanded="true" signature="3367:3579" ph=" = ..." />
+                <marker date="1554560428866" expanded="true" signature="3390:3414" ph=" = ..." />
+                <marker date="1554560428866" expanded="true" signature="3630:3856" ph=" = ..." />
+                <marker date="1554560428866" expanded="true" signature="3652:3677" ph=" = ..." />
               </folding>
             </state>
           </provider>
@@ -106,6 +108,13 @@
     <setting file="file://$PROJECT_DIR$/FSharpKoans/AboutAsserts.fs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/FSharpKoans/AboutStrings.fs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/FSharpKoans/AboutLists.fs" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="10" />
     <option name="y" value="43" />
@@ -159,19 +168,24 @@
   </component>
   <component name="RunManager">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
-      <option name="EXE_PATH" value="" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/FSharpKoans/bin/Debug/netcoreapp2.0/FSharpKoans.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FSharpKoans" />
       <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/FSharpKoans/FSharpKoans.fsproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="None" />
-      <option name="PROJECT_TFM" value="" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
       <method v="2">
         <option name="Build" enabled="true" />
       </method>
@@ -188,12 +202,12 @@
       <option name="presentableId" value="Default" />
       <updated>1554129846883</updated>
       <workItem from="1554129849259" duration="207000" />
-      <workItem from="1554142279610" duration="1141000" />
+      <workItem from="1554142279610" duration="1467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1348000" />
+    <option name="totallyTimeSpent" value="1674000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -418,28 +432,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/FSharpKoans/AboutLists.fs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="915">
-          <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+        <state relative-caret-position="555">
+          <caret line="122" column="37" selection-start-line="122" selection-start-column="37" selection-end-line="122" selection-end-column="37" />
           <folding>
-            <marker date="1554129806902" expanded="false" signature="27:75" ph="..." />
-            <marker date="1554129806902" expanded="true" signature="77:485" ph="//--------------------------------------------------------------- ..." />
-            <marker date="1554129806902" expanded="true" signature="527:3654" ph=" = ..." />
-            <marker date="1554129806902" expanded="true" signature="567:1249" ph=" = ..." />
-            <marker date="1554129806902" expanded="true" signature="642:746" ph="//Note: The list data type in F## is a singly linked list,  ..." />
-            <marker date="1554129806902" expanded="true" signature="1290:1586" ph=" = ..." />
-            <marker date="1554129806902" expanded="true" signature="1652:1717" ph="//first.Head &lt;- &quot;apple&quot; ..." />
-            <marker date="1554129806902" expanded="true" signature="1727:1834" ph="//THINK ABOUT IT: Can you change the contents of a list once it has been ..." />
-            <marker date="1554129806902" expanded="true" signature="1878:2032" ph=" = ..." />
-            <marker date="1554129806902" expanded="true" signature="2412:2521" ph=" = ..." />
-            <marker date="1554129806902" expanded="true" signature="2585:2694" ph=" = ..." />
-            <marker date="1554129806902" expanded="true" signature="2751:2904" ph=" = ..." />
-            <marker date="1554129806902" expanded="true" signature="2770:2844" ph=" = [for i in 0..10 do  ..." />
-            <marker date="1554129806902" expanded="true" signature="2953:3142" ph=" = ..." />
-            <marker date="1554129806902" expanded="true" signature="2976:2996" ph=" = ..." />
-            <marker date="1554129806902" expanded="true" signature="3191:3387" ph=" = ..." />
-            <marker date="1554129806902" expanded="true" signature="3214:3238" ph=" = ..." />
-            <marker date="1554129806902" expanded="true" signature="3438:3654" ph=" = ..." />
-            <marker date="1554129806902" expanded="true" signature="3460:3485" ph=" = ..." />
+            <marker date="1554560428866" expanded="false" signature="27:75" ph="..." />
+            <marker date="1554560428866" expanded="true" signature="77:485" ph="//--------------------------------------------------------------- ..." />
+            <marker date="1554560428866" expanded="true" signature="527:3856" ph=" = ..." />
+            <marker date="1554560428866" expanded="true" signature="567:1277" ph=" = ..." />
+            <marker date="1554560428866" expanded="true" signature="642:746" ph="//Note: The list data type in F## is a singly linked list,  ..." />
+            <marker date="1554560428866" expanded="true" signature="1318:1654" ph=" = ..." />
+            <marker date="1554560428866" expanded="true" signature="1720:1785" ph="//first.Head &lt;- &quot;apple&quot; ..." />
+            <marker date="1554560428866" expanded="true" signature="1795:1902" ph="//THINK ABOUT IT: Can you change the contents of a list once it has been ..." />
+            <marker date="1554560428866" expanded="true" signature="1946:2157" ph=" = ..." />
+            <marker date="1554560428866" expanded="true" signature="2537:2652" ph=" = ..." />
+            <marker date="1554560428866" expanded="true" signature="2716:2834" ph=" = ..." />
+            <marker date="1554560428866" expanded="true" signature="2891:3056" ph=" = ..." />
+            <marker date="1554560428866" expanded="true" signature="2910:2984" ph=" = [for i in 0..10 do  ..." />
+            <marker date="1554560428866" expanded="true" signature="3105:3318" ph=" = ..." />
+            <marker date="1554560428866" expanded="true" signature="3128:3148" ph=" = ..." />
+            <marker date="1554560428866" expanded="true" signature="3367:3579" ph=" = ..." />
+            <marker date="1554560428866" expanded="true" signature="3390:3414" ph=" = ..." />
+            <marker date="1554560428866" expanded="true" signature="3630:3856" ph=" = ..." />
+            <marker date="1554560428866" expanded="true" signature="3652:3677" ph=" = ..." />
           </folding>
         </state>
       </provider>
